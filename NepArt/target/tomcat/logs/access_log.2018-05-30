@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [30/May/2018:17:31:26 +0545] "GET / HTTP/1.1" 200 17922 http-bio-8080-exec-1 1672
+0:0:0:0:0:0:0:1 - - [30/May/2018:17:31:30 +0545] "GET /Index.do HTTP/1.1" 200 17922 http-bio-8080-exec-6 6
+0:0:0:0:0:0:0:1 - - [30/May/2018:17:31:37 +0545] "GET /Categories.do?button=painting HTTP/1.1" 200 5105 http-bio-8080-exec-7 563
+0:0:0:0:0:0:0:1 - - [30/May/2018:17:31:57 +0545] "GET /Categories.do?button=sketching HTTP/1.1" 200 4100 http-bio-8080-exec-8 27
+0:0:0:0:0:0:0:1 - - [30/May/2018:17:38:50 +0545] "GET /NepArt/Index.do HTTP/1.1" 404 981 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [30/May/2018:17:38:53 +0545] "GET /NepArt/Categories.do?button=painting HTTP/1.1" 404 991 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [30/May/2018:17:39:15 +0545] "GET / HTTP/1.1" 200 17922 http-bio-8080-exec-3 8
+0:0:0:0:0:0:0:1 - - [30/May/2018:17:39:18 +0545] "GET /Categories.do?button=photography HTTP/1.1" 200 7917 http-bio-8080-exec-3 337
+0:0:0:0:0:0:0:1 - - [30/May/2018:17:40:20 +0545] "GET /Categories.do?button=photography HTTP/1.1" 200 8192 http-bio-8080-exec-9 271
+0:0:0:0:0:0:0:1 - - [30/May/2018:17:40:30 +0545] "GET /Index.do HTTP/1.1" 200 17922 http-bio-8080-exec-9 4
